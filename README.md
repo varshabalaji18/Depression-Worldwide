@@ -26,7 +26,7 @@ The "Global Trends in Mental Health Disorder" dataset is sourced from Kaggle [3]
 To measure the impact of depression within each society, the parameter of disability-adjusted life year (DALY) per 100,000 people is utilized. The DALY parameter is employed to gauge the total burden of depression. To compare countries using this parameter, the dataset "DALY” estimates WHO Member States by country. This dataset is sourced from the official World Health Organization website (http://who.int) and may be utilized for research purposes, with proper citation [5]. The dataset includes DALY parameters for each country in the WHO for every monitored disorder, segregated by gender and age, spanning the years from 2000 to 2019. For our project, we will be utilizing the data for depression disorder from this dataset to compare countries based on the DALY parameter.
 
 The dataset about expenditures for the healthcare system worldwide is taken from The World Bank website [6]. This dataset contains health expenditures in percentage to GDP, expenditures in U.S. dollars, and expenditures in U.S. dollars per capita for 2019 by countries. This data is used in combination with the dataset "Government expenditures on mental health as a percentage of total government expenditures on health (%)" from the World Health Organization website [7]. By combining these data, we can analyze spending on mental health worldwide by country and the efficiency of money spent on diagnostics and treatment in each healthcare system.
-
+ 
 ## Jupyter Notebook 
 
 The project jupyter notebook with Python Code and SQL queries is provided in file: https://github.com/orlovtsu/depression_worldwide/blob/main/depression_worldwide.ipynb
